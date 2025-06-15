@@ -119,6 +119,17 @@ _Below is an example of how you can instruct your audience on installing and set
    npm run migrate up
    ```
 3. Seed users from provided query in Seed folder
+4. Run App on development
+
+   ```sh
+   npm run start:dev
+   ```
+
+5. Run test E2E
+
+   ```sh
+   npm run test:e2e
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
