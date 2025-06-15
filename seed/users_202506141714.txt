@@ -1,0 +1,112 @@
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('b2aa2433-e432-49e9-952d-4232d2cf004a','Baily','blandeg0','kM4(f?=~eH"g3G','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,75),
+	 ('5e9e3358-fd6f-4d8f-9186-9abffdb3e55e','Ailina','avonbrook1','lK5%CQa091w<','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,56),
+	 ('afd2c0cb-fc75-412d-8586-54519315ddfe','Arty','ayoseloff2','lS25@bT%2Bi','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,64),
+	 ('2eae7e8b-c534-4741-9588-6b8927862b18','Benny','brossetti3','qV0.IcX0@1+rT>vt','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,67),
+	 ('7f6a7c24-efc9-4f5e-9a02-358eb40be654','Horatio','hcavie4','fC1#?13~oADkr$i','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,21),
+	 ('71477a6d-2429-4a48-90bd-bc17d2655859','Ericka','esiemons5','nP5y+t`{~+btP4/','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_userNULL,23),
+	 ('95a9c90d-98d0-4cdd-af36-8241b8c0a8a2','Raimondo','rthyng6','rQ1{Cjx"1','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,78),
+	 ('39e75c66-92e2-446d-a04b-36d73bf12a86','Bayard','bdonald7','vI3%K=5D26q6Q','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,54),
+	 ('ab6ea09b-2b87-4e99-bc34-141d26b9f270','Carson','cmateiko8','qJ6>T0''{tBb$,g2','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,77),
+	 ('b3cd2d53-e311-4ea3-8d4b-c19cfca848e6','Linet','llimpenny9','rX3"Ve8SQcj0m','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,16);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('23ec26d6-69d2-44c2-8823-2ffb13679ebc','Nissy','nlangridgea','sA4>JbjZ8jFq,p,X','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,42),
+	 ('cededa03-e3c4-4b6e-a39a-25a5fc49c2e3','Jannelle','jeacottb','fR1<uUHwG1(G','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,49),
+	 ('067782d0-6fe7-41af-a9f5-83d731eefa00','Claudine','csansc','kN9"ttAICo6z4UJ','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,29),
+	 ('220300d2-db1c-4fa4-b062-cad3126920bb','Gloria','gpessoltd','sH1!`M@Dod2','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,16),
+	 ('0af6e5f9-7fe7-4a7c-b351-403e0473a10f','Hortensia','hfreiburgere','vX2}KG#*"','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,65),
+	 ('53e70ca6-376c-4c1f-91e4-c40374e52394','Lyn','lgoltonf','yB4~5H!r|.F4B','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,36),
+	 ('3c3f3bda-16f3-469a-9320-db2228ac413f','Gasper','gloveg','uL8{wG(_wQ6=cl#j','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,50),
+	 ('4d0fa884-2cab-41b9-a5e4-60f5b43ec2ba','Rance','rdevigneh','tG7#?${?CwV','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,72),
+	 ('9bb6d544-6f9d-4220-a595-b94ca879b38e','Lyn','llinbohmi','aY7/yzU{bp,OX}I=','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,47),
+	 ('24a1bd55-80a9-4561-9e62-c621ccc2abc3','Katinka','kdjurkovicj','xS4#pBnly?#','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,69);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('893f6371-b3c0-4cbb-979c-95214602b482','Aretha','abriggdalek','hW7>ZOLsMaZt','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,37),
+	 ('160a99d6-d2c9-4674-b4d0-49408ebe0e09','Lishe','lpllul','nS8}CMx@4&6''y&@,','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,42),
+	 ('1be96f6a-117a-42e6-b144-240ab09eb0ba','Ilario','iliggensm','mH3N28%CEg6vwo','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,71),
+	 ('9cbff277-4534-4b97-9cef-39cc875549cf','Alvie','agilardonin','dF8''iw8K','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,28),
+	 ('b3ca3395-5f2a-4246-aefb-a36efa2c73db','Lacie','lbillieo','uN6%9Dql"','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,31),
+	 ('e85b1d9d-7af1-4d6f-a03b-c5be259f165d','Odele','osunnexp','oN5}/+7dL_c<Xc','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,52),
+	 ('aa8e7589-d6e7-4b07-8fac-2492c4ad34d8','Reggis','rstanelandq','kZ0@2(xiD9t%lK)>','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,22),
+	 ('70b625ee-6725-4c61-b4d4-af27521e139c','Gayler','gfilyaevr','jF2_(H+UF','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,13),
+	 ('4195f1ee-6545-4332-a618-ffbc005a7923','Rabi','rdonahues','pB3*23d`3N@j','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,47),
+	 ('d183b8f9-4f69-4db4-a23f-4c9a3b706f04','Elli','ecunliffet','tQ1)fBfQ','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,52);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('6e43582d-c5b7-41ff-b568-a5cddc8a6c15','Boniface','brayworthu','aO6~edlkP9b3','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,56),
+	 ('3ece0318-aa55-47a3-87c0-29c01c74f34d','Cynde','cmccrawv','uH6$WVZ3oJ','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,54),
+	 ('6cf3f055-f19d-4fb7-9d9e-f3cd70685a75','Reinaldo','rwhittersw','lK2|n.4hZwl','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,45),
+	 ('a66a2f68-50e2-4f94-8ca9-311ffa679e9a','Obadiah','omaccombex','tL4&OKf_Ro','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,19),
+	 ('b0488e39-8ef4-4ca9-a7d9-5184a305d7d8','Querida','qgummey','aH2,qYHk','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,56),
+	 ('5eb28a18-cebe-42e5-b45e-3d7ce2044947','Niko','nlibbisz','hB1=p0ujTN|6_','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,36),
+	 ('9122a5a7-b468-42fb-8610-ff0ad6a5a7fc','Blondie','balfonsetti10','fA8&/`PB7&5j=','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,28),
+	 ('84eb4d58-c72b-4c7c-8e3b-c9a094fcd996','Griselda','gplumridege11','jE4(NFnSee{','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,35),
+	 ('e6a71348-1eae-41c6-8c7d-6cc11c01189a','Joycelin','jwoolam12','gL8>''WZQAPz','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,73),
+	 ('df3b0010-1691-44c9-8162-b073a3c2c658','Leroy','lmcclory13','eL5#6t,,','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,10);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('e8090aea-af14-4036-a35d-df01725b49b4','Julia','jbeveridge14','tH4)4uU*lYL&"UJ','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,79),
+	 ('48e900f3-46ef-4d5f-93b4-74be1f0940bb','Alyosha','aflury15','wJ5!PB4r9','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,38),
+	 ('d1df8988-e056-45ef-82aa-7da4379c9932','Seamus','smargarson16','cM0|+Ll1cN(ht%+','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,43),
+	 ('5db2aa9b-42b8-4397-b35c-9f335ba6b135','Urbanus','uchristofe17','zL9.RFxq+','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,17),
+	 ('713972db-2a5f-478c-a0fd-fd933e184b4a','Terri-jo','tyakovich18','dX7.QKTh','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,73),
+	 ('f354538a-4588-4a0b-92bd-de7ed46486ea','Waylon','wscrewton19','jH5&f@?K9u7X6P','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,79),
+	 ('bdbc4179-35fd-4922-8b97-d2d7fc3d8759','Brooks','bmacnockater1a','tC1{}2l0hdavG/','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,71),
+	 ('2a3f4ea4-c0fd-4173-9eac-0a3a02c90574','Wyndham','wgatlin1b','oR4''U,H''D','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,23),
+	 ('d5cb807f-2d64-4e23-a2a3-41ef0b3ab665','Bail','bdalmon1c','qF8{=Z!X','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,62),
+	 ('04993c39-33c7-43db-be78-2756fb1f0f66','Fleming','feccleshare1d','dR1_Q%#7}.T','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,19);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('010a3663-fec7-459d-9431-d3c89ccecc7a','Newton','ngoggey1e','yY8"T(QPQ<XbAR','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,29),
+	 ('3bddf4c7-99b8-46b9-8cdd-539142024118','Trix','tlemerie1f','yD9?1/>iVBOU)$','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,23),
+	 ('cdbdd2eb-1157-4e3d-b38a-d83a5ad89175','Theodosia','tbuckerfield1g','gW8&>CMg"t`/7Z(','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,26),
+	 ('0d4f903d-1819-4db2-9e27-56102295899b','Jen','jpesic1h','lI1(lRI7`7jKh}u4','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,40),
+	 ('2422bdb9-1210-47f4-9a47-79ca99e91893','Carilyn','cdacosta1i','mH3(tt~Wb$UEnN(,','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,42),
+	 ('2b0c25f5-e201-4642-93ef-32c967ec7549','Fletcher','fgladman1j','hC3(+IFW','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,19),
+	 ('32461261-2aa0-47e8-8e6b-71285e4cd908','Darci','dzorzetti1k','uA5(ntAZd','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,73),
+	 ('2ffa9038-bccd-4fa7-8c86-f5a030f496ba','Jenna','jbennell1l','mX6''(zgua/K','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,74),
+	 ('c4539e4f-76c8-49c5-abf5-b3365782fa86','Lazaro','lalvis1m','lX4~+moN"p3VJAui','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,63),
+	 ('1a7a62a4-0123-4901-b2c4-7ceef9d3c46f','Charmion','ccoe1n','cY6''p|~o~>P"k','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,41);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('35319c54-544d-47f2-8723-500578e522cc','Devin','dsewall1o','aE1=cE9M','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,35),
+	 ('92850130-a7ee-460e-9aed-11b4a5ccc1aa','Melvin','mgolson1p','gA0d?qBl%','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,77),
+	 ('7ca90578-dd87-4e2a-b43d-db4ece73f27f','Tobias','tmounce1q','kO8+mLzo','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,52),
+	 ('58ef1944-c81f-43db-81bb-ca541142dc03','Roxanne','rloddy1r','qU6~FEdQmv1P','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,52),
+	 ('e985e338-6854-4b05-b5f9-3d71c4c47208','Trula','troy1s','fC4{!zY)4(yckan!','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,46),
+	 ('17f6f441-5015-4f1f-b1a5-f5e0b636a8cc','Kaja','kfullun1t','cE0<?PaXeAs3','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,31),
+	 ('abe92908-608b-4ef9-893e-23fbdb82f45c','Eryn','eappleford1u','uN6@1zFd','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,78),
+	 ('6d113eaa-38f9-4465-b6de-ce8978cb523c','Pablo','pgallager1v','kE7?x3M=OiM','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,36),
+	 ('362985f7-c940-4e6c-8f8d-970f4842660a','Audy','apassmore1w','oV0<$+e6}','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,71),
+	 ('c96f4d7c-b558-4234-909b-0cecc75c2ef8','Vernon','vcavendish1x','zP8,hZYSd','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,58);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('94bf0a67-1cb6-4f16-b30c-f2ab87dcef1f','Chanda','cpetrusch1y','jD9~VC>=58','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,69),
+	 ('dafc5392-e098-4577-8b74-24426f9c5dc9','Yvor','ygallahar1z','eY6oY#YI','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,64),
+	 ('7ef2012e-7524-4eea-b6a1-f507810ac1d9','Jedd','jmarzelle20','gH5$<4HDip','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,68),
+	 ('f528d057-046b-4806-8924-a1dc612ac588','Vanni','vniblock21','rE6{q#Uf','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,37),
+	 ('78657064-d362-4eb2-aae8-7d432309865e','Gilli','gkarpfen22','zB5*nPli*OI/N','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,55),
+	 ('7e640f02-5dd2-455e-b85c-93c5e5d13ff1','Rhiamon','rolunny23','sX5/2pCS7','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,22),
+	 ('6bbde91c-dc4c-4bc1-95e4-71c9947a6519','Kerwinn','kmacronald24','qS9_309YF','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,32),
+	 ('84928dc4-fc35-4639-8d85-f57f4e4d4d32','Catharine','cmort25','rN8_uzfa"ixHg','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,22),
+	 ('411d422d-db83-4e12-a3e2-f47c3030d0e5','Arlana','agatecliff26','lI4{ZGgU','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,13),
+	 ('4c458b94-32b1-4432-9eed-f261e83ad6cb','Gayleen','gpratty27','hC7/w?p%ielF','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,55);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('2b79ba8f-33f2-45eb-b3f7-35096c17a0f9','Read','rspada28','mK4%/~=x$s~4','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,49),
+	 ('3e89c063-b9fe-4b29-8f5d-ea67596d5040','Cosette','cbullas29','oS9$?D8lVM','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,61),
+	 ('a1052f7f-0bef-4251-b27b-fc528ecd2397','Zorana','znathon2a','tT6+!Q/Q3','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,61),
+	 ('80a9e155-f7d2-44f0-9148-8ee457f5a9ac','Cristobal','czywicki2b','iP1.OgH2iFSj.$','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,27),
+	 ('072becfd-9141-4f39-8414-d355c92027a8','Robbi','ratterley2c','cI8")Uhulcbs&3','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,12),
+	 ('05f58163-88ab-40c8-a7d2-c84d13d28a9c','Charla','cdigance2d','oJ8%<Z_0G0*h@','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,45),
+	 ('61d2e2c1-e106-4714-abeb-c69cd822a660','Freddy','fbover2e','kW0|vT3JS','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,62),
+	 ('98bf7e11-f9d1-4612-a2bc-9742222f2ac0','Hugibert','hkemwal2f','bK0_qBSS','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,14),
+	 ('f48a7aed-e5ef-4ea2-a3df-e1c30a4c140f','Tommie','tswithenby2g','mI8~rfEVuKT_/m$','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,37),
+	 ('c30d0480-58d5-4369-94f2-b08b42652ef3','Frankie','fskitt2h','oY1%ymcCkG773','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,62);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('f2562196-c581-40fc-8027-c66e2d5b07e8','Tracey','tcutmore2j','nV3>T8yy+#aN','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,77),
+	 ('484ac638-dac4-476f-a1a0-15eee78f8691','Annabell','aponde2k','pT6jx0r5Zk8Y','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,55),
+	 ('d0a86ef6-63a1-4ac2-a03f-f9b985b33385','Leda','lgaynor2l','gB1@s43r','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,44),
+	 ('390491b1-b2cc-4587-b3f8-bc9fce30faf9','Gwendolen','gbosher2m','oE6*NRUM!','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,77),
+	 ('bda9d0cf-6a99-4eeb-8b70-53d2afa3eb0a','Sammy','sself2n','pV8%fQ%Cy#S!pxU','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,58),
+	 ('d7ba630b-dd7c-4785-92cd-c07fa4e4e382','Durant','dduchant2o','yM7(V9PjOU','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,70),
+	 ('e0d7ccaf-d78f-4280-8d1a-ecea9499de23','Mavra','mcoast2p','rS1.d@=8dREo','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,75),
+	 ('bbaaf27c-c826-452e-8ed7-e05afb4fa598','Terrel','toty2q','vA2%&>i','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,47),
+	 ('47cd369e-9441-4a4c-bbf8-62d18ebded63','Colin','cculp2r','hD3gZ"hljN8','2025-06-11 19:03:00.266838+07','''adm''',NULL,NULL,'EMPLOYEE'::public.role_user,NULL,73),
+	 ('d33cc5a7-7314-475c-a5c4-53c00d924e02','Joy','joy','$2a$10$lIi.dhpz70jGarTZUhM4GufnO0wrlMp0uTAPx.NkdLblAGU5E43EC','2025-06-11 19:03:00.266838+07','''adm''',NULL,'EMPLOYEE'::public.role_user,NULL,NULL,53);
+INSERT INTO public.users (user_id,fullname,username,"password",create_at,create_by,update_at,update_by,"role",ip,hourly_salary) VALUES
+	 ('1529ce7e-0cd6-4a08-8206-1ed2d90af05d','ADMIN','ADMIN','$2a$10$lIi.dhpz70jGarTZUhM4GufnO0wrlMp0uTAPx.NkdLblAGU5E43EC','2025-06-11 19:04:15.777405+07','''adm''',NULL,NULL,'ADMIN'::public.role_user,NULL,NULL);
